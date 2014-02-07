@@ -1,0 +1,5 @@
+C:\Users\eahscs\Documents\GitHub\ChapterOneProblems\ConsoleProblemsOne\Tree\bin\Debug\Tree.exe
+C:\Users\eahscs\Documents\GitHub\ChapterOneProblems\ConsoleProblemsOne\Tree\bin\Debug\Tree.pdb
+C:\Users\eahscs\Documents\GitHub\ChapterOneProblems\ConsoleProblemsOne\Tree\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\eahscs\Documents\GitHub\ChapterOneProblems\ConsoleProblemsOne\Tree\obj\x86\Debug\Tree.exe
+C:\Users\eahscs\Documents\GitHub\ChapterOneProblems\ConsoleProblemsOne\Tree\obj\x86\Debug\Tree.pdb
