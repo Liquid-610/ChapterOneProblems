@@ -1,0 +1,5 @@
+C:\Users\eahscs\Documents\GitHub\ChapterOneProblems\ConsoleProblemsOne\ConsoleProblemsOne\bin\Debug\ConsoleProblemsOne.exe
+C:\Users\eahscs\Documents\GitHub\ChapterOneProblems\ConsoleProblemsOne\ConsoleProblemsOne\bin\Debug\ConsoleProblemsOne.pdb
+C:\Users\eahscs\Documents\GitHub\ChapterOneProblems\ConsoleProblemsOne\ConsoleProblemsOne\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\eahscs\Documents\GitHub\ChapterOneProblems\ConsoleProblemsOne\ConsoleProblemsOne\obj\x86\Debug\ConsoleProblemsOne.exe
+C:\Users\eahscs\Documents\GitHub\ChapterOneProblems\ConsoleProblemsOne\ConsoleProblemsOne\obj\x86\Debug\ConsoleProblemsOne.pdb
